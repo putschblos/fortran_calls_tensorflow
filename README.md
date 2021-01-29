@@ -52,4 +52,4 @@ tf.io.write_graph(graph_or_graph_def=frozen_func.graph,
 ```
 
 ## Step 1
-After you you compiled Tensorflow, you have to build
+After you you compiled Tensorflow, you have to build ajsld
